@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Accounts QA"
+  contactDetails:
+    name: "Dim qa"
+    email: "testqa@test.com"
+  onCallSupport:
+    - (088) 88-7788-77
+    - (088) 88-7788-79

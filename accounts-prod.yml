@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Accounts Prod"
+  contactDetails:
+    name: "Dim prod"
+    email: "test-prod@test.com"
+  onCallSupport:
+    - (088) 88-7788-67
+    - (088) 88-7788-69

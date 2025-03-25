@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Cards qa Microservice"
+  contactDetails:
+    name: "Dim - qa"
+    email: "test@test.com"
+  onCallSupport:
+    - (088) 88-7488-17
+    - (088) 88-7588-29

@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Accounts"
+  contactDetails:
+    name: "Dim"
+    email: "test@test.com"
+  onCallSupport:
+    - (088) 88-7788-99
+    - (088) 88-7788-89
+
+
